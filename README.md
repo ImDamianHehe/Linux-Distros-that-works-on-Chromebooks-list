@@ -49,7 +49,7 @@ Welcome to the **Chromebook Linux Guide** — your hub for testing Linux distros
 
 ---
 
-## 🔗 Useful Links
+## 🔗 Credits and useful links
 - [MrChromebox Firmware Guide](https://mrchromebox.tech/#fwscript)
 - [AskUbuntu Audio Tutorial](https://askubuntu.com/questions/1486278/how-to-install-chromebook-audio-drivers-in-ubuntu)
 - [Chromebook Linux Audio Script](https://github.com/WeirdTreeThing/chromebook-linux-audio)
